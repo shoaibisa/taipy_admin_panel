@@ -1,0 +1,11 @@
+node_modules
+*.env
+
+**/upload
+**/database
+__pycache__/
+*.py[cod]
+*.so
+.coverage
+.tox/
+venv/
